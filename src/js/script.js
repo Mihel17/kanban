@@ -1,3 +1,6 @@
 import '@/sass/style.scss';
 
-console.log('hello world!');
+import App from './app.js';
+
+const app = new App();
+app.init(`Канбан-доска`);
