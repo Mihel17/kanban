@@ -1,1 +1,0 @@
-{"version":3,"file":"main.bundle.css","mappings":";;;AAEA;EACE,uBAHG;AAEL,C","sources":["webpack:///./sass/style.scss"],"sourcesContent":["$bg: green;\r\n\r\n.board-app .board-app__main {\r\n  background-color: $bg;\r\n}\r\n"],"names":[],"sourceRoot":""}
